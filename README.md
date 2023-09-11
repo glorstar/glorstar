@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @glorstar
 - 👀 I’m interested in learning sometnhing new each day.
 - 🌱 I’m currently learning computer programming.
-- 💞️ I’m looking to collaborate on everything that enriches me personally.
+- 💞️ I’m looking to collaborate on everything that personally improves me.
 - 📫 How to reach me. Through my email or telephone number.
 
 <!---
